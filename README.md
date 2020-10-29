@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on https://github.com/horsicq/XAPKDetector
+🌱 I’m currently learning: Android, APK, DEX
+🤔 I’m looking for help with: Android, APK, DEX
+📫 How to reach me: e-mail: horsicq@gmail.com TG: @horsicq
 
 <!--
 **horsicq/horsicq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
