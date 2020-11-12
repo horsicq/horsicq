@@ -9,7 +9,7 @@
 
 My current projects: 
 
-- [![GitHub stars](https://img.shields.io/github/stars/horsicq/DIE-engine.svg)](https://img.shields.io/github/downloads/horsicq/DIE-engine)
+- [![GitHub stars](https://img.shields.io/github/stars/horsicq/Detect-It-Easy.svg)](https://img.shields.io/github/downloads/horsicq/Detect-It-Easy)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/DIE-engine/total.svg)](http://ntinfo.biz)
 [**Detect It Easy**](https://github.com/horsicq/Detect-It-Easy) is a program for determining types of files for Windows, Linux and MacOS.
 
