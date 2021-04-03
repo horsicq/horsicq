@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on https://github.com/horsicq/Detect-It-Easy
+🔭 I’m currently working on https://github.com/horsicq/XMachOViewer
 
 🌱 I’m currently learning: Mach-O, DEX 
 
