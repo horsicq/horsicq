@@ -37,6 +37,10 @@ My current projects:
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XPEViewer/total.svg)](https://github.com/horsicq/XPEViewer/releases)
 [**XPEViewer**](https://github.com/horsicq/XPEViewer) is a PE file viewer/editor for Windows, Linux and MacOS.
 
+- [![GitHub stars](https://img.shields.io/github/stars/horsicq/XMachOViewer.svg)](https://github.com/horsicq/XMachOViewer)
+[![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/XMachOViewer/total.svg)](https://github.com/horsicq/XMachOViewer/releases)
+[**XMachOViewer**](https://github.com/horsicq/XMachOViewer) is a MachO file viewer/editor for Windows, Linux and MacOS.
+
 - [![GitHub stars](https://img.shields.io/github/stars/horsicq/Nauz-File-Detector.svg)](https://github.com/horsicq/Nauz-File-Detector)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/Nauz-File-Detector/total.svg)](https://github.com/horsicq/Nauz-File-Detector/releases)
 [**Nauz File Detector**](https://github.com/horsicq/Nauz-File-Detector) is a portable linker/compiler/packer identifier utility for Windows, Linux and MacOS.
