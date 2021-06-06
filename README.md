@@ -5,7 +5,7 @@
 
 🤔 I’m looking for help with: translation  https://github.com/horsicq/XTranslation/tree/master/dicts
 
-📫 How to reach me: e-mail: horsicq@gmail.com TG: @horsicq
+📫 How to reach me: e-mail: horsicq@gmail.com TG: @horsicq Twitter: @horsicq
 
 My current projects: 
 
@@ -60,6 +60,7 @@ My current projects:
 - [![GitHub stars](https://img.shields.io/github/stars/horsicq/pex64dbg.svg)](https://github.com/horsicq/pex64dbg)
 [![GitHub All Releases](https://img.shields.io/github/downloads/horsicq/pex64dbg/total.svg)](https://github.com/horsicq/pex64dbg/releases)
 [**Plugin for x64dbg: PE viewer.**](https://github.com/horsicq/pex64dbg)
+
 
 <!--
 **horsicq/horsicq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
