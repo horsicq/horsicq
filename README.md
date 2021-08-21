@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on https://github.com/horsicq/XMachOViewer
+🔭 I’m currently working on https://github.com/horsicq/XELFOViewer
 
-🌱 I’m currently learning: Mach-O, DEX 
+🌱 I’m currently learning: ELF 
 
 🤔 I’m looking for help with: translation  https://github.com/horsicq/XTranslation/tree/master/dicts
 
