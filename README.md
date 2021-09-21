@@ -3,7 +3,10 @@
 
 🌱 I’m currently learning: ELF 
 
-🤔 I’m looking for help with: translation  https://github.com/horsicq/XTranslation/tree/master/dicts
+🤔 I’m looking for help with translation:
+
+* https://github.com/horsicq/XTranslation
+* https://github.com/horsicq/XTranslation/tree/master/dicts
 
 📫 How to reach me: e-mail: horsicq@gmail.com TG: @horsicq Twitter: @horsicq
 
