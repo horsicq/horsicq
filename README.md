@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on https://github.com/horsicq/XPEViewer
+🔭 I’m currently working on https://github.com/horsicq/xntsv
 
-🌱 I’m currently learning: ELF 
+🌱 I’m currently learning: MACH-O 
 
 🤔 I’m looking for help with translation:
 
