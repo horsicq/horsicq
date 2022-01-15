@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on https://github.com/horsicq/XELFViewer
+🔭 I’m currently working on https://github.com/horsicq/Detect-It-Easy
 
 🌱 I’m currently learning: ELF
 
