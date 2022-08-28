@@ -17,7 +17,6 @@
 
 📫 How to reach me: e-mail: horsicq@gmail.com TG: @horsicq Twitter: @horsicq
 
-<br/>
 <a href="https://twitter.com/horsicq">
   <img src="https://img.shields.io/twitter/follow/horsicq?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
