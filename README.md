@@ -17,6 +17,16 @@
 
 📫 How to reach me: e-mail: horsicq@gmail.com TG: @horsicq Twitter: @horsicq
 
+<br/>
+<a href="https://twitter.com/horsicq">
+  <img src="https://img.shields.io/twitter/follow/horsicq?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>
+<br/>
+<a href="https://ntinfo.biz">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horsicq&theme=dark" />
+</a>
+<br/>
+
 My current projects: 
 
 - [![GitHub stars](https://img.shields.io/github/stars/horsicq/Detect-It-Easy.svg)](https://github.com/horsicq/Detect-It-Easy)
