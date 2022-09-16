@@ -81,6 +81,10 @@ My current projects:
 [**Plugin for x64dbg: PE viewer.**](https://github.com/horsicq/pex64dbg)
 
 
+## Special Thanks
+
+- [PELock Software Protection & Reverse Engineering](https://www.pelock.com)
+
 <!--
 **horsicq/horsicq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
