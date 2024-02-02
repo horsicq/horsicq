@@ -26,6 +26,9 @@
 </a>
 <br/>
 
+<img alt="Stars" src="https://img.shields.io/github/stars/horsicq?label=Stars">
+<img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=horsicq">
+
 My current projects: 
 
 - [![GitHub stars](https://img.shields.io/github/stars/horsicq/Detect-It-Easy.svg)](https://github.com/horsicq/Detect-It-Easy)
