@@ -88,6 +88,9 @@ My current projects:
 
 - [PELock Software Protection & Reverse Engineering](https://www.pelock.com)
 
+
+![Alt Text](images/ntinfo.gif)
+
 <!--
 **horsicq/horsicq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
